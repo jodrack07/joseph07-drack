@@ -1,4 +1,4 @@
-<center>Hi there 👋</center>
+<h1 align="center">Hi there 👋</h1>
 <p align="center">
   Hi, I'm Joseph, a software enginner and I am happy that you read my Profile.
   <br>
