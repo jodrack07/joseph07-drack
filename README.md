@@ -13,10 +13,9 @@
 <h2 align="center">
 ℹ️ You can reach me at : 
 
-[![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/joseph07-drack/)
-[![Facebook Badge](https://img.shields.io/badge/-mavericksdb-white?logo=Facebook&logoColor=1877F2&style=plastic)]https://web.facebook.com/joseph.shadrack.54)
-[![LinkedIn Badge](https://img.shields.io/badge/-mavericks--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/joseph-buingo-ab2682225//)
-[![Gmail Badge](https://img.shields.io/badge/-@balitaanmavericks-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:drack.sir01@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-jodrack-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/joseph07-drack/)
+[![LinkedIn Badge](https://img.shields.io/badge/-jodrack-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/joseph-buingo-ab2682225//)
+[![Gmail Badge](https://img.shields.io/badge/-@jodrack-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:drack.sir01@gmail.com)
 
 🛠️ Languages and Tools :
 <table align="center">
