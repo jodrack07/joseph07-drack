@@ -34,10 +34,10 @@ You can reach out to me :
         <td align="center"><img alt="JavaScript" width="90px" src="https://img.shields.io/badge/-JavaScript-white?logo=javascript&logoColor=F7DF1E&style=plastic"/>             </td>
     </tr>
     <tr>
-        <td align="center"><img alt="Git" width="45px" src="https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032&style=plastic"/></td>
+        <td align="center"><img alt="bootstrap" width="45px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=plastic"/></td>
         <td align="center"><img alt="CSS3" width="60px" src="https://img.shields.io/badge/-CSS3-white?logo=css3&logoColor=1572B6&style=plastic"/></td>
         <td align="center">
-        <img alt="Visual-Studio-Code" width="85px" src="https://img.shields.io/badge/-VS%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></td>
+        <img alt="redux" width="85px" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&style=plastic"></td>
     </tr>
 </table>
 
