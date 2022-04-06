@@ -51,8 +51,8 @@
 </h2>
 
 <div align="center">
-
-[![Visits Badge](https://badges.pufler.dev/visits/joseph07-drack/joseph07-drack)](https://github.com/joseph07-drack) [![Repos Badge](https://badges.pufler.dev/repos/joseph07-drackb)](https://github.com/joseph07-drack?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/joseph07-drack)](https://github.com/joseph07-drack)
+[![Visits Badge](https://badges.pufler.dev/visits/joseph07-drack/joseph07-drack)](https://github.com/joseph07-drack) [![Repos Badge]
+(https://badges.pufler.dev/repos/joseph07-drackb)](https://github.com/joseph07-drack?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/joseph07-drack)](https://github.com/joseph07-drack)
 
 <!-- [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db) -->
 </div>
