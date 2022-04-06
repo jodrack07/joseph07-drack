@@ -28,11 +28,11 @@ You can reach out to me :
         <td align="center"><img alt="Git" width="45px" src="https://img.shields.io/badge/-Git-white?logo=postman&logoColor=F05032&style=plastic"/></td>
         <td align="center"><img alt="GitHub" width="70px" src="https://img.shields.io/badge/-GitHub-white?logo=nodejs&logoColor=181717&style=plastic"/></td>
         <td align="center">
-        <img alt="Visual-Studio-Code" width="85px" src="https://img.shields.io/badge/-VS%20Code-white?logo=expressjs&logoColor=007ACC&style=plastic"></td>
+        <img alt="Visual-Studio-Code" width="85px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></td>
     </tr>
     <tr>
         <td align="center"><img alt="HTML5" width="70px" src="https://img.shields.io/badge/-HTML5-white?logo=html5&logoColor=E34F26&style=plastic"/></td>
-        <td align="center"><img alt="CSS3" width="60px" src="https://img.shields.io/badge/-CSS3-white?logo=css3&logoColor=1572B6&style=plastic"/></td>
+        <td align="center"><img alt="CSS3" width="60px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></td>
         <td align="center"><img alt="JavaScript" width="90px" src="https://img.shields.io/badge/-JavaScript-white?logo=javascript&logoColor=F7DF1E&style=plastic"/>             </td>
     </tr>
     <tr>
