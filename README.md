@@ -6,14 +6,13 @@
   <br>
   💻 I am much interested in everything that touches technology but most importantly in Web Development and AI.
   <br>
-  📚 I’m currently learning <code><img src="https://img.icons8.com/color/50/000000/nodejs.png"/></code>.
   <br>
  </p>
 
 <h2 align="center">
 ℹ️ You can reach me at : 
 
-[![GitHub Badge](https://img.shields.io/badge/-joseph07drack-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/joseph07-drack/)
+[![GitHub Badge](https://img.shields.io/badge/-joseph07--drack-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/joseph07-drack/)
 [![LinkedIn Badge](https://img.shields.io/badge/-jodrack-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/joseph-buingo-ab2682225//)
 [![Gmail Badge](https://img.shields.io/badge/-drack.sir01@gmail.com-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:drack.sir01@gmail.com)
 
