@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I am JoDrack and I'm software developer 👨‍💻.</h1>
 
-<p align="center">I am currently software develpment, especially web Development, at <b>[Microverseinc]()</b></p>
-
 <p>🔬 I'm currently emproving my Software development skills at <a href="https://www.microverse.org/">MicroverseInc</a>, which is online school for Software development.
   <br>
   💻 I am much interested in everything that touches technology but most importantly in Web Development and AI.
@@ -26,7 +24,7 @@ You can reach out to me :
     </tr>
    <tr>
         <td align="center"><img alt="Git" width="45px" src="https://img.shields.io/badge/-Git-white?logo=postman&logoColor=F05032&style=plastic"/></td>
-        <td align="center"><img alt="GitHub" width="70px" src="https://img.shields.io/badge/-GitHub-white?logo=nodejs&logoColor=181717&style=plastic"/></td>
+        <td align="center"><img alt="GitHub" width="70px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=plastic"/></td>
         <td align="center">
         <img alt="Visual-Studio-Code" width="85px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=plastic"></td>
     </tr>
