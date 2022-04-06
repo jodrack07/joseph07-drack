@@ -35,7 +35,7 @@ You can reach out to me :
     </tr>
     <tr>
         <td align="center"><img alt="Git" width="45px" src="https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032&style=plastic"/></td>
-        <td align="center"><img alt="GitHub" width="70px" src="https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717&style=plastic"/></td>
+        <td align="center"><img alt="CSS3" width="60px" src="https://img.shields.io/badge/-CSS3-white?logo=css3&logoColor=1572B6&style=plastic"/></td>
         <td align="center">
         <img alt="Visual-Studio-Code" width="85px" src="https://img.shields.io/badge/-VS%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></td>
     </tr>
