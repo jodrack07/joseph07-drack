@@ -10,7 +10,7 @@
  </p>
 
 <h2 align="center">
-ℹ️ You can reach me at : 
+You can reach out to me : 
 
 [![GitHub Badge](https://img.shields.io/badge/-joseph07--drack-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/joseph07-drack/)
 [![LinkedIn Badge](https://img.shields.io/badge/-jodrack-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/joseph-buingo-ab2682225//)
@@ -25,10 +25,10 @@
         <img alt="Visual-Studio-Code" width="85px" src="https://img.shields.io/badge/-VS%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></td>
     </tr>
    <tr>
-        <td align="center"><img alt="Git" width="45px" src="https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032&style=plastic"/></td>
-        <td align="center"><img alt="GitHub" width="70px" src="https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717&style=plastic"/></td>
+        <td align="center"><img alt="Git" width="45px" src="https://img.shields.io/badge/-Git-white?logo=postman&logoColor=F05032&style=plastic"/></td>
+        <td align="center"><img alt="GitHub" width="70px" src="https://img.shields.io/badge/-GitHub-white?logo=nodejs&logoColor=181717&style=plastic"/></td>
         <td align="center">
-        <img alt="Visual-Studio-Code" width="85px" src="https://img.shields.io/badge/-VS%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></td>
+        <img alt="Visual-Studio-Code" width="85px" src="https://img.shields.io/badge/-VS%20Code-white?logo=expressjs&logoColor=007ACC&style=plastic"></td>
     </tr>
     <tr>
         <td align="center"><img alt="HTML5" width="70px" src="https://img.shields.io/badge/-HTML5-white?logo=html5&logoColor=E34F26&style=plastic"/></td>
